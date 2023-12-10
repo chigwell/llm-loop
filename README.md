@@ -6,18 +6,9 @@
 
 ## Installation
 
-To install `llm-loop`, you will need to clone the repository and install the dependencies. Ensure you have Python 3.x installed on your system before proceeding.
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/chigwell/llm-loop.git
-   cd llm-loop
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install llm-loop
+```
 
    This will install the necessary Python packages, including `ctransformers` and any other dependencies.
 

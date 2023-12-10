@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='llm-loop',
-    version='0.01',
+    version='0.02',
     packages=find_packages(),
     description='A utility package for querying language models with pattern matching and retry logic',
     long_description=open('README.md').read(),
